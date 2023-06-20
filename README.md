@@ -1,5 +1,4 @@
 # Lab Journal website using quarto
-# test
 
 This quarto website template  for lab journaling. Students in the data science courses at the Institute of Entrepreneurship will use this template to learn R for business analytics. 
 
